@@ -1,0 +1,925 @@
+---
+format: 
+  revealjs:
+    theme: [default, _style.scss]
+    width: "1600"
+    height: "900"
+    slide-number: c/t
+    link-external-newwindow: true
+    chalkboard: false   
+---
+
+<h1> **Inteligența Artificială:<br> de la curiozitate la înțelegere** </h1>
+
+<h2>O introducere în conceptele cheie<br> și impactul asupra viitorului muncii.</h2>
+
+<hr>
+
+<br>
+<h4> **Cozmina Secula** </h4>
+
+<h4> 18.09.2025 </h4>
+
+
+
+![](/logo/logo.svg){.absolute bottom=410 left=430 width="230"} 
+
+
+![](/logo/log_%20biblioteca_curbe.png){.absolute bottom=190 left=700 width="250"} 
+
+![](/logo//cj.png){.absolute bottom=320 left=450 width="200"} 
+
+![](/logo/parteneri_m.jpg){.absolute bottom=20 left=0 width="500"} 
+
+
+
+
+## Agenda {.content-bottom}
+
+<br>
+
+| Timp | Subiect |
+|:---|:---|
+| {{< bi clock >}} 5 min| Intro
+| {{< bi clock >}} 50 min| **Partea I:**<br> Ce este inteligența artificială (IA) <br> Ce este IA generativă?<br>Beneficii și limite ale IA generativă|
+| {{< bi clock >}} 30 min| **Partea a II-a:**<br>Impactul potențial al IA <br> Locuri de muncă <br> Competențe pentru viitor|
+| {{< bi clock >}} 5 min| Încheiere <br> Workshopuri IA|
+
+
+# Partea I<br>Ce este inteligența artificială?{style="text-align: left;"}
+
+
+## Turing Test, 1950 - "Pot mașinile să gândească?"
+
+::: {.columns}
+::: {.column}
+::: fragment
+![](/imagini/TuringPaper.png){fig-align="center" height="80%"}
+
+![](/imagini/Alan_turing_header.jpg){.absolute top=150 left=20  height="200"}
+:::
+:::
+::: {.column}
+::: fragment
+![](/imagini/TuringTest.png){fig-align="center" width="375" height="480"}
+:::
+::: fragment
+<br><br>
+[O mașină este inteligentă dacă răpunsurile sale nu se pot distinge de cele ale unui om.]{.mark}
+
+:::
+::: 
+:::
+
+
+## 1956, termenul [**inteligență artificială**]{.mark} a fost inventat
+
+John McCarthy a organizat workshopul de vară de la Dartmouth.
+
+<br>
+
+![](/imagini/dartmouth.jpeg){fig-align="center" width="550"}
+
+![](/imagini/Dartmouth-Conference.jpg){.absolute top=170 left=260 width="350" height="250"}
+
+<br>
+Participanții au prezentat o propunere îndrăzneață: [construirea unui sistem care să poată imita fiecare aspect al inteligenței umane.]{.mark}
+
+## Istoria inteligenței artificiale
+
+![](/imagini/istoria-IA.svg){.lightbox fig-align="center"}
+
+## Google AI
+
+{{< video https://www.youtube.com/watch?v=lXUQ-DdSDoE start="60" width="100%" height="85%" >}}
+
+## Ce este inteligență artificială?
+
+::: {.columns }
+::: {.column width="40%"}
+
+<br>
+
+[Inteligența artificială sau IA]{.mark} se referă la **sisteme care pot îndeplini sarcini care în mod normal necesită inteligență umană**.
+
+<br>
+Exemple de sarcini:
+
+- învățarea
+- raționament logic
+- rezolvarea problemelor
+- înțelegerea limbajului
+- recunoașterea vorbirii
+
+:::
+::: {.column .center width="60%"}
+
+<br><br>
+
+![](/imagini/sistem-IA.svg)
+
+:::
+:::
+
+
+## Sistemele IA - **autonomie și adaptabilitate**.
+
+<br>
+
+::::::: {.columns .center}
+:::: {.column width="50%"}
+::: {.absolute style="background: #12719e; width: 450px; height: 450px; margin: 50px; box-shadow: 10px 25px 25px -9px darkgray; margin-left: auto; margin-right: auto;rotate: 0deg; color: #fff"}
+**Autonomie**: <br><br>capacitatea de a efectua sarcini în medii complexe fără îndrumarea constantă a unei persoane.
+:::
+::::
+
+:::: {.column width="50%"}
+::: {.absolute style="background: #a2d4ec; width: 450px; height: 450px; margin: 50px; box-shadow: 0 25px 25px -9px darkgray; margin-left: auto; margin-right: auto; rotate: 0deg;"}
+
+**Adaptabilitate**: <br><br> capacitatea de a-și îmbunătăți performanța după implementare, ca răspuns la date, contexte sau condiții noi.
+:::
+
+::::
+:::::::
+
+![](/logo/bottom-slide.svg){.absolute bottom=-90 left=10 width="100%"}
+
+
+
+## Exemple de IA 
+::::::: {.columns .center}
+:::: {.column width="30%"}
+::: {.absolute style="background: #cfe8f3; width: 300px; height: 70px; margin: 50px; box-shadow: 0 25px 25px -9px darkgray; margin-left: auto; margin-right: auto;rotate: 0deg;"}
+**Este IA**
+:::
+
+::: {.fragment fragment-index=1}
+![](/imagini/search-engines.png){.absolute top=270 left=10 width="250" height="120"}
+
+:::
+
+::: {.fragment fragment-index=2}
+
+![](/imagini/chatbots.png){.absolute top=350 left=350 width="320" height="380"}
+
+:::
+
+::: {.fragment fragment-index=5}
+
+![](/imagini/medical-diagnostics.jpg){.absolute top=450 left=0 width="300" height="170"}
+:::
+
+::: notes
+
+Agenții de inteligență artificială pot asista în diagnosticarea afecțiunilor medicale, interpretarea imaginilor medicale și furnizarea de sfaturi medicale bazate pe datele pacientului.
+
+:::
+
+::: {.fragment fragment-index=4}
+
+![](/imagini/netflix.png){.absolute bottom=20 left=0 width="300" height="170"}
+
+:::
+
+
+::: {.fragment fragment-index=3}
+
+![](/imagini/analysis.png){.absolute top=290 left=700 width="300" height="170"}
+
+:::
+
+::: {.fragment fragment-index=8}
+![](/imagini/ai-navigation.jpg){.absolute top=550 left=700 width="300" height="170"}
+:::
+
+::::
+
+:::: {.column width="40%"}
+::: {.absolute style="background: #a2d4ec; width: 500px; height: 140px; margin: 50px; box-shadow: 0 25px 25px -9px darkgray; margin-left: auto; margin-right: auto; rotate: 0deg;"}
+
+**Autonomie și adaptabilitate**
+:::
+::::
+
+
+:::: {.column width="30%"}
+::: {.absolute style="background: #cfe8f3; width: 300px; height: 70px; margin: 50px; box-shadow: 0 25px 25px -9px darkgray; margin-left: auto; margin-right: auto; rotate: 0deg;"}
+
+**Nu este IA**
+:::
+
+::: {.fragment fragment-index=6}
+![](/imagini/editor.jpg){.absolute top=270 right=10 width="250" height="250"}
+:::
+
+::: {.fragment fragment-index=3}
+
+![](/imagini/excel.jpg){.absolute top=270 right=280 width="250" height="250"}
+
+:::
+
+::: {.fragment fragment-index=7}
+![](/imagini/thermostat.jpg){.absolute top=550 right=10 width="250" height="250"}
+:::
+
+::: {.fragment fragment-index=8}
+
+![](/imagini/navigation-google.png){.absolute top=550 right=280 width="250" height="200"}
+:::
+
+
+::::
+:::::::
+
+
+
+## Ce este IA generativă?
+
+
+IA generativă se referă la sistemele IA care [învață din datele existente pentru a crea conținut nou]{.mark}, precum text, imagini, muzică sau cod.
+
+
+<br>
+
+::: {.columns}
+::: {.column width="40%"}
+
+<br>
+
+![](/imagini/chatbots.png){fig-align="center" width="420"}
+:::
+
+::: {.column width="60"}
+
+![](/imagini/AI-generate-text.png){.absolute bottom=170 right=520 width="350" height="450" }
+
+![](/imagini/AI-wtite-code.jpeg){.absolute bottom=0 right=40 width="400" height="170" }
+
+
+![](/imagini/art.png){.absolute bottom=0 right=480 width="300" height="170"}
+
+
+![](/imagini/analysis_1.png){.absolute bottom=480 right=100 width="400" height="120"}
+
+
+![](/imagini/analisis_2.png){.absolute bottom=280 right=240 width="290" height="170"}
+
+
+![](/imagini/analysis_3.png){.absolute bottom=280 right=10 width="290" height="170"}
+
+:::
+:::
+
+
+
+## Ce sunt "Modelele lingvistice mari"(LLMs)?
+
+<br>
+
+::: small
+
+### 1. Model lingvistic
+
+Un algoritm care prezice secvențe de text.
+
+
+::: notes
+
+Un algoritm este un set detaliat de instrucțiuni pe care un computer le urmează pentru a realiza o sarcină sau a rezolva o problemă.
+
+:::
+
+::: fragment
+
+### 2. Model lingvistic mare
+
+Un model de IA foarte mare care prezice multe secvențe complicate de text sau cod, folosind miliarde de puncte de date. Unele dintre acestea [pot produce text sau cod care seamănă foarte mult cu ceea ce pot face oamenii]{.mark}.
+
+:::
+:::
+
+::: {.columns}
+::: {.column width="25%"}
+::: fragment
+
+::: {class="info-box" style="background: #062635;"}
+Sunt antrenate pe volume masive de date (text și cod) de pe internet și din cărți.
+:::
+
+:::
+:::
+
+::: {.column width="25%"}
+::: fragment
+
+::: {class="info-box" style="background: #12719e;"}
+Performanța lor este îmbunătățită continuu cu ajutorul feedback-ului oferit de oameni.
+:::
+
+:::
+:::
+
+
+::: {.column width="25%"}
+::: fragment
+
+::: {class="info-box" style="background: #46abdb; color: #000;"}
+Funcționează prezicând cel mai probabil cuvânt care urmează într-o secvență.
+:::
+
+:::
+:::
+
+::: {.column width="25%"}
+::: fragment
+
+::: {class="info-box" style="background: #a2dbec; color: #000;"}
+Anumite modele pot accesa internetul în timp real pentru a oferi răspunsuri actualizate.
+:::
+
+:::
+:::
+:::
+
+
+## Cum funcționează IA generativă?
+
+<br><br><br>
+
+![](/imagini/black-box.svg){fig-align="center"}
+
+## Cum funcționează IA generativă?
+
+<br><br>
+
+![](/imagini/black-box-2.svg){fig-align="center"}
+
+
+
+## Beneficii și limite ale IA generativă (1/2)
+
+::: {.columns}
+::: {.column width="50%"}
+### ✅ Beneficii
+
+<br>
+
+::: {.fragment fragment-index=1}
+<p>{{< bi chat-dots >}} **Utilizare naturală** – Poți vorbi sau scrie normal.</p>
+:::
+
+<br>
+
+::: {.fragment fragment-index=2}
+<p>{{< bi mortarboard >}} **Ajutor personalizat** – Explicații adaptate de la nivel de începător la expert.</p>
+:::
+
+<br>
+
+::: {.fragment fragment-index=3}
+<p>{{< bi clock >}} **Economie de timp** – Generează ciorne, rezumate și automatizează sarcini de rutină.</p>
+:::
+
+<br>
+
+::: {.fragment fragment-index=4}
+<p>{{< bi lightbulb >}} **Stimulent creativ** – Oferă idei, analogii și soluții la probleme.</p>
+:::
+
+:::
+
+::: {.column width="50%"}
+### ⚠️ Limite
+
+<br>
+
+::: {.fragment fragment-index=1}
+<p>{{< bi exclamation-triangle >}} **Răspunsuri greșite** – Poate oferi informații false cu maximă încredere.</p>
+:::
+
+<br>
+
+::: {.fragment fragment-index=2}
+<p>{{< bi front >}} **Bias (Părtinire)** – Poate reflecta stereotipuri sau lacune din datele de antrenament.</p>
+:::
+
+
+::: {.fragment fragment-index=3}
+<p>{{< bi person-slash >}} **Dependență excesivă** – Riscă să înlocuiască gândirea critică.</p>
+:::
+
+<br>
+
+::: {.fragment fragment-index=4}
+<p>{{< bi lock >}} **Riscuri de confidențialitate** – Datele introduse ar putea fi utilizate necorespunzător.</p>
+:::
+
+:::
+:::
+
+---
+
+## Capacități și limite ale IA generativă (2/2)
+
+::: {.columns}
+::: {.column width="50%"}
+### ✅ Beneficii
+
+<br>
+
+::: {.fragment fragment-index=1}
+<p>{{< bi book-open >}} **Simplifică informația** – Transformă supraîncărcarea informațională în claritate.</p>
+:::
+
+<br>
+
+::: {.fragment fragment-index=2}
+<p>{{< bi universal-access >}} **Accesibilitate** – Se adaptează la diverse stiluri și nevoi de învățare.</p>
+:::
+
+<br>
+
+::: {.fragment fragment-index=3}
+<p>{{< bi rocket >}} **Productivitate** – Automatizează sarcinile repetitive și plictisitoare.</p>
+:::
+
+:::
+
+::: {.column width="50%"}
+### ⚠️ Limite
+
+<br>
+
+::: {.fragment fragment-index=1}
+<p>{{< bi eye-slash >}} **Utilizare ascunsă** – Prezența IA poate să nu fie transparentă sau evidentă.</p>
+:::
+
+<br>
+
+::: {.fragment fragment-index=2}
+<p>{{< bi person-check >}} **Necesită supraveghere** – Rezultatele necesită întotdeauna verificare și validare umană.</p>
+:::
+
+
+::: {.fragment fragment-index=3}
+<p>{{< bi briefcase >}} **Reconfigurarea joburilor** – Schimbă natura anumitor rolurilor, dar nu le înlocuiește complet.</p>
+:::
+
+:::
+:::
+
+# Partea a-II-a<br>Impactul potențial al IA generativă{style="text-align: left;"}
+
+##
+
+::: middle 
+::: large
+Care credeți că va fi impactul potențial al IA generativă în următorii ani:
+
+- [**înlocuirea completă a unor locuri de muncă**]{.mark}
+
+- [**transformarea sarcinilor**]{.mark} din cadrul acestora?
+
+:::
+:::
+
+
+
+## Automatizarea sarcinilor, nu a locurilor de muncă
+
+<br>
+
+![](/imagini/task-automatization.svg){fig-align="center"}
+
+<br>
+
+
+- IA va înlocui **unele sarcini** repetitive prin [**automatizare**]{.mark} 
+- **În cele mai multe cazuri,** va [**îmbunățăți capacitățile oamenilor**]{.mark} ajutându-i să lucreze mai eficient și să fie mai productivi. 
+
+
+<br>
+
+<div class="smallest" style="text-align: left; margin-top: 20px;">
+Sursa: Gmyrek, P., Berg, J., Bescond, D. AI generativă și locurile de muncă: O analiză globală a efectelor potențiale asupra cantității și calității locurilor de muncă. ILO Working Paper 96. Geneva: Biroul Internațional al Muncii, 2023.|CC BY
+</div>
+
+
+
+
+## Cine va fi impactat?
+
+<p><span style="font-size: 5.5em;">1</span><span style="font-size: 2.5em;"> lucrător din</span><span style="font-size: 5.5em;"> 4</span><span style="font-size: 2.5em;"><br> are expunere la IA generativă</span></p>
+
+
+<br><br>
+
+::: large
+[25% din forța de muncă globală]{.mark}
+:::
+
+<br>
+
+<div class="smallest" style="text-align: left; margin-top: 20px;">
+Sursa: Gmyrek, P., Berg, J., Kamiński, K., Konopczyński, F., Ładna, A., Nafradi, B., Rosłaniec, K., Troszyński,M. IA generativă și locuri de muncă: un indice global rafinat al expunerii ocupaționale. ILO Working Paper 140. Geneva: Biroul Internațional al Muncii, 2025.|CC BY
+</div>
+
+
+## Niveluri de expunere: Ce ocupații sunt vizate?
+
+<br>
+
+
+::: {.columns .center style="font-size: 0.8em; text-align: center;"}
+::: {.column width="16.6%"}
+<div style="background: #e3e3e3; color: #000; border: 1px solid #ccc; padding: 10px; height: 250px; display: flex; flex-direction: column; justify-content: center;">
+<p><b>Fără expunere</b></p>
+<span style="font-size: 0.85em;">Fără impact</span>
+</div>
+
+::: fragment
+<div style="font-size: 0.75em; text-align: left; margin-top: 15px;">
+- Manageri de politici și planificare<br>
+- Ingineri mecanici<br>
+- Tehnicieni ingineri chimiști<br>
+- Legislatori<br>
+- Ingineri electrici
+</div>
+
+:::
+
+:::
+::: {.column width="16.6%"}
+<div style="background: #cfe8f3; color: #000; border: 1px solid #ccc; padding: 10px; height: 250px; display: flex; flex-direction: column; justify-content: center;">
+<p><b>Expunere minimă</b></p>
+<span style="font-size: 0.85em;">Impact mic</span>
+</div>
+
+::: fragment
+<div style="font-size: 0.75em; text-align: left; margin-top: 15px;">
+- Tehnicieni ingineri în telecomunicații<br>
+- Profesioniști în administrarea politicilor<br>
+- Dieteticieni și nutriționiști<br>
+- Proiectanți urbani și de trafic<br>
+- Manageri de cercetare și dezvoltare
+</div>
+
+:::
+
+:::
+::: {.column width="16.6%"}
+<div style="background: #a2d4ec; color: #000; border: 1px solid #ccc; padding: 10px; height: 250px; display: flex; flex-direction: column; justify-content: center;">
+<p><b>Expunere redusă</b></p>
+<span style="font-size: 0.85em;">Majoritatea sarcinilor rămân umane</span>
+</div>
+
+::: fragment
+<div style="font-size: 0.75em; text-align: left; margin-top: 15px;">
+- Psihologi<br>
+- Profesioniști asociați în domeniul juridic<br>
+- Fotografi<br>
+- Specialiști în metode de educație<br>
+- Asistenți de vânzări în magazine
+</div>
+
+:::
+
+:::
+::: {.column width="16.6%"}
+<div style="background: #73bfe2; color: #000; border: 1px solid #ccc; padding: 10px; height: 250px; display: flex; flex-direction: column; justify-content: center;">
+<p><b>Expunere moderată</b></p>
+<span style="font-size: 0.85em;">Unele sarcini sunt afectate</span>
+</div>
+
+::: fragment
+<div style="font-size: 0.75em; text-align: left; margin-top: 15px;">
+- Funcționari guvernamentali (taxe)<br>
+- Profesioniști asociați în contabilitate<br>
+- Analiști de sisteme<br>
+- Profesioniști în baze de date și rețele<br>
+- Reprezentanți de vânzări
+</div>
+
+:::
+
+:::
+::: {.column width="16.6%"}
+<div style="background: #46abdb; color: #fff; border: 1px solid #ccc; padding: 10px; height: 250px; display: flex; flex-direction: column; justify-content: center;">
+<p><b>Expunere semnificativă</b></p>
+<span style="font-size: 0.85em;">Multe sarcini sunt afectate</span>
+</div>
+
+::: fragment
+<div style="font-size: 0.75em; text-align: left; margin-top: 15px;">
+- Traducători, interpreți<br>
+- Scribi<br>
+- Funcționari bancari<br>
+- Funcționari în centre de contact<br>
+- Secretari (generali)
+</div>
+
+:::
+
+:::
+::: {.column width="16.6%"}
+<div style="background: #12719e; color: #fff; border: 1px solid #ccc; padding: 10px; height: 250px; display: flex; flex-direction: column; justify-content: center;">
+<p><b>Expunere foarte mare</b></p>
+<span style="font-size: 0.85em;">Risc ridicat de automatizare</span>
+</div>
+
+::: fragment
+<div style="font-size: 0.75em; text-align: left; margin-top: 15px;">
+- Operatori introducere date<br>
+- Dactilografi<br>
+- Funcționari în statistică, finanțe<br>
+- Funcționari de contabilitate<br>
+- Dealeri și brokeri de valori mobiliare
+</div>
+
+:::
+
+:::
+:::
+
+<div class="smallest" style="text-align: left; margin-top: 20px;">
+Sursa: Gmyrek, P., Berg, J., Kamiński, K., Konopczyński, F., Ładna, A., Nafradi, B., Rosłaniec, K., Troszyński,M. IA generativă și locuri de muncă: un indice global rafinat al expunerii ocupaționale. ILO Working Paper 140. Geneva: Biroul Internațional al Muncii, 2025.|CC BY
+</div>
+
+
+
+## Impactul IA în funcție de nivelul de venit al țărilor
+
+::: {.columns}
+::: {.column width="25%"}
+
+<br><br>
+
+::: {class="info-box" style="background: #783F8C; height: 350px; text-align: left;  color: #ffffff;"}
+<p><b>Țări cu venituri mici</b></p>
+<p><span style="font-size: 3.5em;">11%</span> din totalul locurilor de muncă au expunere la IA generativă</p>
+
+
+:::
+:::
+
+::: {.column width="25%"}
+
+<br><br>
+
+::: {class="info-box" style="background: #006A4E; height: 350px; text-align: left; color: #ffffff;"}
+<p><b>Țări cu venituri mari</b></p>
+<p><span style="font-size: 3.5em;">34%</span> din totalul locurilor de muncă au expunere la IA generativă </p>
+
+:::
+:::
+
+::: {.column width="50%"}
+
+<br>
+
+![](/imagini/world-bank-income-groups.svg){fig-align="center" width="100%"}
+
+:::
+:::
+
+<div class="smallest" style="text-align: left; margin-top: 20px;">
+Sursa: Gmyrek, P., Berg, J., Kamiński, K., Konopczyński, F., Ładna, A., Nafradi, B., Rosłaniec, K., Troszyński,M. IA generativă și locuri de muncă: un indice global rafinat al expunerii ocupaționale. ILO Working Paper 140. Geneva: Biroul Internațional al Muncii, 2025.|CC BY
+</div>
+
+
+
+## Care va fi impactul IA generativă în România?
+
+![](/imagini/IA-Gen_Ro.svg){fig-align="center"}
+
+<br>
+
+::: medium
+IA generativă [**va completa și îmbunătății**]{.mark} majoritatea locurilor de muncă din România.
+:::
+
+<br>
+<div class="smallest" style="text-align: left; margin-top:-50px;">
+Sursa: [Studiu Implement Consulting Group comandat de Google, 2024](https://implementconsultinggroup.com/article/the-economic-opportunity-of-generative-ai-in-cee)
+</div>
+
+
+## Ce va determina impactul IA generativă în România?
+
+
+::: {.columns}
+::: {.column}
+<br><br><br>
+**Nivelul de digitalizare al firmelor și al administrației publice**
+
+:::
+::: {.column}
+![](/imagini/IMM-Desi.svg)
+:::
+::: 
+
+::: {.columns}
+::: {.column .fragment fragment-index=1}
+<br><br>
+**Investițiile în tehnologie și IA**
+
+:::
+::: {.column .fragment fragment-index=1}
+
+![](/imagini/AI-Desi.svg)
+:::
+::: 
+
+::: {.columns}
+::: {.column .fragment fragment-index=2}
+<br><br><br>
+**Nivelul de competențe digitale**
+
+:::
+::: {.column .fragment fragment-index=2}
+<br>
+
+![](/imagini/Digital-Skills-Desi.svg)
+:::
+::: 
+
+<div class="smallest" style="text-align: left; margin-top: -50px;">
+Sursa: [Indicatori DESI 2025 și 2024](https://digital-decade-desi.digital-strategy.ec.europa.eu/datasets/desi/charts)
+</div>
+
+## Ce înseamnă acest lucru pentru noi?
+
+::: notes
+
+- IA generativă va schimba modul în care lucrăm, multe sarcini vor fi asistate sau automatizate.
+:::
+
+<br>
+
+::: {.columns}
+::: {.column width="50%"}
+::: small
+[**Pentru fiecare dintre noi**]{.mark}
+
+<br>
+
+<p>{{< bi person-check >}} **Adaptabilitatea este cheia**</p>
+
+- Evaluarea rolului pentru a vedea ce sarcini pot fi automatizate sau asistate de IA.
+
+- Învățarea continuă ne va ajuta să ne adaptăm la noile tehnologii.
+
+<br>
+
+::: {.fragment fragment-index=1}
+<br><br>
+
+<p>{{< bi lightbulb >}} **Focus pe valoarea adăugată**</p>
+
+- Dezvoltarea abilităților pe care IA nu le poate replica: gândire critică, creativitate și socio-emoționale.
+:::
+:::
+:::
+
+
+::: {.column width="50%"}
+::: small
+[**Pentru companii și angajatori**]{.mark}
+
+<br>
+
+<p>{{< bi building-gear >}} **Productivitate crescută**</p>
+
+- Analizarea fluxurilor de lucru pentru a identifica unde poate IA să automatizeze sarcini și să crească eficiența.
+
+
+- Utilizarea IA pentru a automatiza sarcinile repetitive și a permite angajaților să se concentreze pe sarcini cu impact mai mare.
+
+<br>
+
+::: {.fragment fragment-index=1}
+<p>{{< bi people >}} **Investiții în oameni**</p>
+
+- Succesul companiilor depinde și de investiția în formarea și dezvoltarea competențelor angajaților.
+
+:::
+:::
+:::
+:::
+
+
+## Cine va avea nevoie de noi competențe?
+
+<br>
+
+<p><span style="font-size: 5.5em;">6 </span><span style="font-size: 2.5em;"> angajați din</span><span style="font-size: 5.5em;"> 10</span><span style="font-size: 1.2em;"><br><br><br>consideră că, în următorii 5 ani, cea mai mare parte<br> a [**impactului IA asupra muncii** lor se va materializa<br> sub forma unor **noi nevoi de competențe**]{.mark}.</span></p>
+
+
+<br><br>
+
+<div class="smallest" style="text-align: left; margin-top: 0px;">
+Sursa: Cedefop. (2025). Competențele oferă putere anagajaților în revoluția IA: primele concluzii ale sondajului Cedefop privind competențele în domeniul IA. Publication Office of the European Union. Policy brief. DOI: 10.2801/6372704. https://www.cedefop.europa.eu/en/publications/9201
+</div>
+
+
+
+## Alfabetizarea în domeniul inteligenței artificiale 
+
+<br>
+
+::: {.columns .center}
+::: {.column width="33%"}
+
+#### [**{{< bi search >}} Ce este?**]{.mark}{ style="text-align: left;"}
+
+<br>
+
+::: {.medium style="text-align: left;"}
+Setul de [cunoștințe și<br> abilități]{.mark} necesare pentru a:
+
+- **înțelege**,
+- **evalua critic**,
+- **și utiliza eficient**
+
+instrumentele<br> și sistemele de IA.
+
+:::
+:::
+
+::: {.column width="33%"}
+#### [**{{< bi lightbulb >}} Ce presupune?**]{.mark}{ style="text-align: left;"}
+
+<br>
+
+::: {.medium style="text-align: left;" .fragment fragment-index=1}
+De la
+
+- simpla **recunoaștere<br> a unei tehnologii IA**,
+
+până la
+
+- **înțelegerea modului <br>în care aceste sisteme învață și<br> interpretează lumea**.
+:::
+:::
+
+::: {.column width="33%"}
+#### [**{{< bi info >}} Situația actuală**]{.mark}{style="text-align: left;"}
+<br>
+
+::: {.medium style="text-align: left;" .fragment fragment-index=2}
+
+Între [40% și 60%]{.mark} dintre angajați au:
+
+- o **înțelegere limitată despre ce este tehnologia IA**,
+- **cum funcționează**,
+- **care sunt consecințele sale probabile pentru societate**.
+:::
+:::
+:::
+
+<br><br>
+
+<div class="smallest" style="text-align: left; margin-top: -20px;">
+Sursa: Cedefop. (2025). Competențele oferă putere anagajaților în revoluția IA: primele concluzii ale sondajului Cedefop privind competențele în domeniul IA. Publication Office of the European Union. Policy brief. DOI: 10.2801/6372704. https://www.cedefop.europa.eu/en/publications/9201
+</div>
+
+## Ce competențele devin importante în 2030?
+
+
+![](/imagini/competente25-30.svg){.lightbox fig-align="center"}
+
+
+<div class="smallest" style="text-align: left; margin-top: -60px;">
+Sursa: [Adaptat după Forumul Economic Mondial, Raportul privind viitorul locurilor de muncă
+2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/)
+</div>
+
+
+## Ateliere practice IA Generativă
+
+
+<br>
+
+::: {.columns .center}
+::: {.column width="33%"}
+<div class="workshop-card">
+  <div class="workshop-number">1</div>
+  <h4>Fundamentele IA Generative</h4>
+  <p>Dobândiți experiența de bază cu instrumentele IA generativă.</p>
+</div>
+:::
+::: {.column width="33%"}
+<div class="workshop-card">
+  <div class="workshop-number">2</div>
+  <h4>Utilizarea Responsabilă</h4>
+  <p>Dezvoltați competențele pentru utilizarea responsabilă a IA generativă.</p>
+</div>
+:::
+::: {.column width="33%"}
+<div class="workshop-card">
+  <div class="workshop-number">3</div>
+  <h4>Formularea Prompturilor</h4>
+  <p>Dezvoltați abilitățile de formulare a prompturilor.</p>
+</div>
+:::
+:::
