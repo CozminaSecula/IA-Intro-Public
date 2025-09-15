@@ -29,8 +29,7 @@ format:
 
 ![](/logo//cj.png){.absolute bottom=290 left=430 width="320"} 
 
-![](/logo/parteneri_m.jpg){.absolute bottom=20 left=0 width="650"} 
-
+![](/logo/parteneri_m.jpg){.absolute bottom=40 left=0 width="650"} 
 
 
 
@@ -148,7 +147,7 @@ Exemple de sarcini:
 ::::
 :::::::
 
-![](/logo/bottom-slide.svg){.absolute bottom=-90 left=10 width="100%"}
+![](/logo/bottom-slide.svg){.absolute bottom=0 left=10 width="100%"}
 
 
 
@@ -250,19 +249,19 @@ IA generativă se referă la sistemele IA care **învață din datele existente 
 
 ![](/imagini/AI-generate-text.png){.absolute bottom=170 right=520 width="350" height="450" }
 
-![](/imagini/AI-wtite-code.jpeg){.absolute bottom=220 right=40 width="400" height="170" }
+![](/imagini/AI-wtite-code.jpeg){.absolute bottom=280 right=40 width="400" height="170" }
 
-![](/imagini/art.png){.absolute bottom=10 right=140 width="300" height="170"}
+![](/imagini/art.png){.absolute bottom=70 right=140 width="300" height="170"}
 
 
-<div class="absolute" style="bottom:350px; right:170px; width:290px; height:220px;">
+<div class="absolute" style="bottom:400px; right:170px; width:290px; height:220px;">
   <audio controls>
     <source src="https://upload.wikimedia.org/wikipedia/commons/0/0a/AI-generated_audio_featuring_bossa_nova_music_with_electric_guitar.ogg" type="audio/ogg">
     Your browser does not support the audio element.
   </audio>
 </div>
 
-<div class="absolute smallest" style="bottom:420px; right:100px; width:350px; text-align: left;">
+<div class="absolute smallest" style="bottom:480px; right:100px; width:350px; text-align: left;">
 Benlisquare, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons
 </div>
 
@@ -707,7 +706,7 @@ Sursa: [Studiu Implement Consulting Group comandat de Google, 2024](https://impl
 
 ::: {.columns}
 ::: {.column}
-<br><br><br>
+<br><br>
 **Nivelul de digitalizare al firmelor și al administrației publice**
 
 :::
@@ -731,12 +730,11 @@ Sursa: [Studiu Implement Consulting Group comandat de Google, 2024](https://impl
 
 ::: {.columns}
 ::: {.column .fragment fragment-index=2}
-<br><br>
+<br>
 **Nivelul de competențe digitale**
 
 :::
 ::: {.column .fragment fragment-index=2}
-<br>
 
 ![](/imagini/Digital-Skills-Desi.svg)
 :::
@@ -873,16 +871,30 @@ până la
 Sursa: Cedefop. (2025). Competențele oferă putere anagajaților în revoluția IA: primele concluzii ale sondajului Cedefop privind competențele în domeniul IA. Publication Office of the European Union. Policy brief. DOI: 10.2801/6372704. https://www.cedefop.europa.eu/en/publications/9201
 </div>
 
-## Ce competențele devin importante în 2030?
+## Ce competențele devin importante în 2030? (1/2)
 
 
-![](/imagini/competente25-30.svg)
+![](/imagini/competente-25-30.svg)
 
+<br>
 
 <div class="smallest" style="text-align: left; margin-top: 0px;">
 Sursa: [Adaptat după Forumul Economic Mondial, Raportul privind viitorul locurilor de muncă
 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/)
 </div>
+
+
+## Ce competențele devin importante în 2030? (2/2)
+
+![](/imagini/competente-sinteza.svg)
+
+<br>
+
+<div class="smallest" style="text-align: left; margin-top: 0px;">
+Sursa: [Adaptat după Forumul Economic Mondial, Raportul privind viitorul locurilor de muncă
+2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/)
+</div>
+
 
 
 ## Ateliere practice IA Generativă
