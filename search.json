@@ -74,7 +74,7 @@
     "href": "slide_v4.html#exemple-de-ia",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
     "section": "Exemple de IA",
-    "text": "Exemple de IA\n\n\n\n Este IA\n\n\n\n\n\nAgenții de inteligență artificială pot asista în diagnosticarea afecțiunilor medicale, interpretarea imaginilor medicale și furnizarea de sfaturi medicale bazate pe datele pacientului.\n\n\n\n\n\n\n\n\n\n\n Autonomie și adaptabilitate\n\n\n\n Nu este IA",
+    "text": "Exemple de IA\n\n\n\n Este IA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Autonomie și adaptabilitate\n\n\n\n Nu este IA",
     "crumbs": [
       "Prezentare"
     ]
@@ -94,7 +94,7 @@
     "href": "slide_v4.html#ce-sunt-modelele-lingvistice-marillms",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
     "section": "Ce sunt “Modelele lingvistice mari”(LLMs)?",
-    "text": "Ce sunt “Modelele lingvistice mari”(LLMs)?\n\n\n1. Model lingvistic\nUn algoritm care prezice secvențe de text.\n\nUn algoritm este un set detaliat de instrucțiuni pe care un computer le urmează pentru a realiza o sarcină sau a rezolva o problemă.\n\n\n2. Model lingvistic mare\nUn model de IA foarte mare care prezice multe secvențe complicate de text sau cod, folosind miliarde de puncte de date. Unele dintre acestea pot produce text sau cod care seamănă foarte mult cu ceea ce pot face oamenii.\n\n\n\n\n\n\nSunt antrenate pe volume masive de date (text și cod) de pe internet și din cărți.\n\n\n\n\n\nPerformanța lor este îmbunătățită continuu cu ajutorul feedback-ului oferit de oameni.\n\n\n\n\n\nFuncționează prezicând cel mai probabil cuvânt care urmează într-o secvență.\n\n\n\n\n\nAnumite modele pot accesa internetul în timp real pentru a oferi răspunsuri actualizate.",
+    "text": "Ce sunt “Modelele lingvistice mari”(LLMs)?\n\n\n1. Model lingvistic\nUn algoritm care prezice secvențe de text, pe baza cuvintelor precedente.\n\nUn algoritm este un set detaliat de instrucțiuni pe care un computer le urmează pentru a realiza o sarcină sau a rezolva o problemă.\n\n\n2. Model lingvistic mare\nUn model de IA foarte mare care prezice multe secvențe complicate de text sau cod, folosind miliarde de puncte de date. Unele dintre acestea pot produce text sau cod care seamănă foarte mult cu ceea ce pot face oamenii.\n\n\n\n\n\n\nSunt antrenate pe volume masive de date (text și cod) de pe internet și din cărți.\n\n\n\n\n\nPerformanța lor este îmbunătățită continuu cu ajutorul feedback-ului oferit de oameni.\n\n\n\n\n\nFuncționează prezicând cel mai probabil cuvânt care urmează într-o secvență.\n\n\n\n\n\nAnumite modele pot accesa internetul în timp real pentru a oferi răspunsuri actualizate.",
     "crumbs": [
       "Prezentare"
     ]
@@ -115,6 +115,46 @@
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
     "section": "Cum funcționează IA generativă?",
     "text": "Cum funcționează IA generativă?",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v4.html#chatgpt-utilizare-personală-vs.-muncă",
+    "href": "slide_v4.html#chatgpt-utilizare-personală-vs.-muncă",
+    "title": "Inteligența Artificială: de la curiozitate la înțelegere",
+    "section": "ChatGPT: Utilizare personală vs. muncă",
+    "text": "ChatGPT: Utilizare personală vs. muncă\n\n\n\n Utilizare personală\n\n70%\n\n\ndin cereri nu au legătură cu munca față de 53%, anul trecut.\n\n\n Programarea și reflecția personală\n\n&lt; 6%\n\n\n\n\n\n\nTop 3 subiecte: îndrumare practică, scriere și informații (~78% din total).\n\n\n\n\n\nSursa: Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v4.html#chatgpt-la-muncă-scrierea-este-utilizată-preponderent",
+    "href": "slide_v4.html#chatgpt-la-muncă-scrierea-este-utilizată-preponderent",
+    "title": "Inteligența Artificială: de la curiozitate la înțelegere",
+    "section": "ChatGPT: La muncă, scrierea este utilizată preponderent",
+    "text": "ChatGPT: La muncă, scrierea este utilizată preponderent\n\n\n\n Creare de conținut\n\n42%\n\n\ndin solicitările de muncă sunt legate de scriere.\n\n\n Îmbunătățire conținut\n\n~ 2/3\n\n\ndin cererile de scriere vizează îmbunătățirea textului, nu crearea de la zero.\n\n\n\n\n\n\n Peste 50% din aceste cereri vin din domeniul management și business.\n\n\n\n\n\nSursa: Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v4.html#chatgpt-sfaturile-sunt-mai-solicitate-decât-acțiunile",
+    "href": "slide_v4.html#chatgpt-sfaturile-sunt-mai-solicitate-decât-acțiunile",
+    "title": "Inteligența Artificială: de la curiozitate la înțelegere",
+    "section": "ChatGPT: sfaturile sunt mai solicitate decât acțiunile",
+    "text": "ChatGPT: sfaturile sunt mai solicitate decât acțiunile\n\n\n\n Întrebări\n\n49%\n\n\nCereri de sfaturi și informații.\n\n\n Acțiuni\n\n40%\n\n\nCereri de execuție directă.\n\n\n\n\n\n\n Cererile de tip “întrebare” cresc mai rapid și sunt percepute ca fiind mai utile.\n\n\n\n\n\nSursa: Source: Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v4.html#chatgpt-cine-folosește-cel-mai-mult-profilul-utilizatorului",
+    "href": "slide_v4.html#chatgpt-cine-folosește-cel-mai-mult-profilul-utilizatorului",
+    "title": "Inteligența Artificială: de la curiozitate la înțelegere",
+    "section": "ChatGpt: Cine folosește cel mai mult? Profilul utilizatorului",
+    "text": "ChatGpt: Cine folosește cel mai mult? Profilul utilizatorului\n\n\n\n\n Gen: Echilibru aproape complet între femei și bărbați.\n\n\n Vârsta: Aproximativ 50% dintre utilizatori au sub 26 de ani.\n\n\n Global: Creștere accelerată în țările cu venituri mici și medii.\n\n\n Profesioniștii cu educație superioară: Folosesc IA mai des pentru muncă și pentru întrebări.\n\n\n\n\n\nSursa: Source: Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255",
     "crumbs": [
       "Prezentare"
     ]
@@ -214,7 +254,7 @@
     "href": "slide_v4.html#adaptare-și-oportunități",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
     "section": "Adaptare și oportunități",
-    "text": "Adaptare și oportunități\n\n\n\nImplicații la nivel individual\n\n\n Adaptabilitate și învățare continuă\n\n\nRolurile profesionale vor fi reevaluate pentru a identifica sarcinile ce pot fi automatizate sau asistate de IA.\nÎnvățarea continuă devine esențială pentru adaptarea la noile tehnologii.\n\n\n\n\n\n Abilități care vor deveni importante\n\n\nVa crește importanța abilităților pe care IA nu le poate replica: gândirea critică, creativitatea și inteligența socio-emoțională.\n\n\n\n\n\nImplicații la nivel organizațional\n\n\n Optimizarea proceselor și productivitate\n\n\nOrganizațiile vor analiza fluxurile de lucru pentru a identifica oportunități de automatizare și eficientizare prin IA.\nAutomatizarea sarcinilor repetitive va permite angajaților să se concentreze pe activități cu valoare adăugată mai mare.\n\n\n\n\n Investiția în capitalul uman\n\n\nSuccesul organizațiilor va depinde de investiția în formarea și dezvoltarea competențelor angajaților pentru a lucra eficient cu noile tehnologii.",
+    "text": "Adaptare și oportunități\n\n\n\n\nImplicații la nivel individual\n\n\n\n Adaptabilitate și învățare continuă\n\n\n\n Abilități care vor deveni importante\n\n\n\n\nImplicații la nivel organizațional\n\n\n\n Optimizarea proceselor și productivitate\n\n\n\n Investiția în capitalul uman",
     "crumbs": [
       "Prezentare"
     ]
