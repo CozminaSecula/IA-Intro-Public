@@ -29,7 +29,7 @@ format:
 
 ![](/logo//cj.png){.absolute bottom=290 left=430 width="320"} 
 
-![](/logo/parteneri_m.jpg){.absolute bottom=40 left=0 width="650"} 
+![](/logo/parteneri_m.jpg){.absolute bottom=30 left=0 width="650"} 
 
 
 
@@ -86,17 +86,16 @@ Participanții au prezentat o propunere îndrăzneață: **construirea unui sist
 
 ## Istoria inteligenței artificiale
 
-::: {.lightbox}
 
 ![](/imagini/istoria-IA1.svg)
-<br><br>
+<br>
 ![](/imagini/istoria-IA2.svg)
 
-:::
 
 ## Google AI
 
 {{< video https://www.youtube.com/watch?v=lXUQ-DdSDoE start="60" width="100%" height="85%" >}}
+
 
 ## Ce este inteligență artificială?
 
@@ -159,6 +158,8 @@ Exemple de sarcini:
 
 :::
 
+::: {.fragment fragment-index=1}
+
 ![](/imagini/search-engines.png){.absolute top=270 left=10 width="250" height="120"}
 
 
@@ -168,24 +169,17 @@ Exemple de sarcini:
 ![](/imagini/social-media.png){.absolute top=430 left=20 width="250"}
 
 
-::: notes
-
-Agenții de inteligență artificială pot asista în diagnosticarea afecțiunilor medicale, interpretarea imaginilor medicale și furnizarea de sfaturi medicale bazate pe datele pacientului.
+![](/imagini/netflix.png){.absolute bottom=40 left=0 width="300" height="170"}
 
 :::
 
-
-![](/imagini/netflix.png){.absolute bottom=20 left=0 width="300" height="170"}
-
-
-
-::: {.fragment fragment-index=1}
+::: {.fragment fragment-index=2}
 
 ![](/imagini/analysis.png){.absolute top=350 left=700 width="300" height="170"}
 
 :::
 
-::: {.fragment fragment-index=2}
+::: {.fragment fragment-index=3}
 ![](/imagini/ai-navigation.jpg){.absolute top=600 left=700 width="300" height="170"}
 :::
 
@@ -205,21 +199,21 @@ Agenții de inteligență artificială pot asista în diagnosticarea afecțiunil
 
 :::
 
-::: {.fragment fragment-index=3}
+::: {.fragment fragment-index=4}
 ![](/imagini/editor.jpg){.absolute top=310 right=0 width="250" height="250"}
 :::
 
-::: {.fragment fragment-index=1}
+::: {.fragment fragment-index=2}
 
 ![](/imagini/excel.jpg){.absolute top=310 right=280 width="250" height="250"}
 
 :::
 
-::: {.fragment fragment-index=3}
+::: {.fragment fragment-index=4}
 ![](/imagini/thermostat.jpg){.absolute top=600 right=0 width="250" height="250"}
 :::
 
-::: {.fragment fragment-index=2}
+::: {.fragment fragment-index=3}
 
 ![](/imagini/navigation-google.png){.absolute top=600 right=280 width="250" height="200"}
 :::
@@ -279,7 +273,7 @@ Benlisquare, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4
 
 ### 1. Model lingvistic
 
-Un algoritm care prezice secvențe de text.
+Un algoritm care prezice secvențe de text, pe baza cuvintelor precedente.
 
 
 ::: notes
@@ -352,6 +346,133 @@ Anumite modele pot accesa internetul în timp real pentru a oferi răspunsuri ac
 <br><br>
 
 ![](/imagini/black-box-2.svg){fig-align="center"}
+
+## ChatGPT: Utilizare personală vs. muncă
+
+<br>
+
+::: {.columns .center .large}
+::: {.column width="50%"}
+#### {{< bi house >}} Utilizare personală
+
+<p><span style="font-size: 2.5em; color: #12719e;">70%</span></p>
+<p>din cereri **nu au legătură cu munca**<br> {{< bi arrow-up >}}față de 53%, anul trecut.</p>
+
+:::
+
+::: {.column width="50%"}
+#### {{< bi code-slash >}} Programarea și reflecția personală
+
+<p><span style="font-size: 2.5em; color: #12719e;">< 6%</span></p>
+
+:::
+:::
+
+<br>
+
+::: {.left}
+- <p>Top 3 subiecte: **îndrumare practică**, **scriere** și **informații** (~78% din total).</p>
+:::
+
+<br>
+
+<div class="smallest" style="text-align: left; margin-top: 10px;">
+Sursa: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255](https://www.nber.org/papers/w34255)
+</div>
+
+
+## ChatGPT: La muncă, scrierea este utilizată preponderent
+
+<br>
+
+::: {.columns .center .large}
+::: {.column width="50%"}
+#### {{< bi pencil-square >}} Creare de conținut
+
+<p><span style="font-size: 2.5em; color: #12719e;">42%</span></p>
+<p>din solicitările de muncă<br> sunt legate de scriere.</p>
+
+:::
+
+::: {.column width="50%"}
+#### {{< bi arrow-up-circle >}} Îmbunătățire conținut
+
+<p><span style="font-size: 2.5em; color: #12719e;">~ 2/3</span></p>
+<p>din cererile de scriere vizează **îmbunătățirea textului**, nu crearea de la zero.</p>
+
+:::
+:::
+
+<br>
+
+::: {.left}
+- <p>{{< bi building >}} Peste **50%** din aceste cereri vin din domeniul management și business.</p>
+:::
+
+<br>
+
+<div class="smallest" style="text-align: left; margin-top: -50px;">
+Sursa: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255](https://www.nber.org/papers/w34255)
+</div>
+
+
+## ChatGPT: sfaturile sunt mai solicitate decât acțiunile
+
+<br>
+
+::: {.columns .center .large}
+::: {.column width="50%"}
+#### {{< bi patch-question >}} Întrebări
+
+<p><span style="font-size: 2.5em; color: #12719e;">49%</span></p>
+<p>Cereri de **sfaturi și informații**.</p>
+
+:::
+
+::: {.column width="50%"}
+#### {{< bi gear >}} Acțiuni
+
+<p><span style="font-size: 2.5em; color: #12719e;">40%</span></p>
+<p>Cereri de **execuție<br> directă**.</p>
+
+:::
+:::
+
+<br>
+
+::: {.left}
+- <p>{{< bi graph-up >}} Cererile de tip **"întrebare"** cresc mai rapid și sunt percepute ca fiind mai utile.</p>
+
+:::
+
+<br>
+
+<div class="smallest" style="text-align: left; margin-top: -40px;">
+Sursa: Source: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255](https://www.nber.org/papers/w34255)
+</div>
+
+## ChatGpt: Cine folosește cel mai mult? Profilul utilizatorului
+
+<br>
+
+::: {.large .center}
+
+
+- <p>{{< bi people >}} **Gen:** Echilibru aproape complet între femei și bărbați.</p>
+
+- <p>{{< bi mortarboard >}} **Vârsta:** Aproximativ **50%** dintre utilizatori au sub 26 de ani.</p>
+
+- <p>{{< bi globe >}} **Global:** Creștere accelerată în țările cu venituri mici și medii.</p>
+
+- <p>{{< bi person-workspace >}} **Profesioniștii cu educație superioară:** Folosesc IA mai des pentru muncă și pentru întrebări.</p>
+
+:::
+
+<br>
+
+<div class="smallest" style="text-align: left; margin-top: 20px;">
+Sursa: Source: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255](https://www.nber.org/papers/w34255)
+</div>
 
 
 
@@ -481,7 +602,6 @@ Care credeți că va fi impactul potențial al IA generativă în următorii ani
 
 :::
 :::
-
 
 
 ## Automatizarea sarcinilor, nu a locurilor de muncă
@@ -748,51 +868,41 @@ Sursa: [Indicatori DESI 2025 și 2024](https://digital-decade-desi.digital-strat
 
 ::: {.columns}
 ::: {.column width="50%"}
-::: small
-**Implicații la nivel individual**
-
+::: large
 <br>
 
-<p>{{< bi person-check >}} **Adaptabilitate și învățare continuă**</p>
+**Implicații la nivel <br>individual**
 
-- Rolurile profesionale vor fi reevaluate pentru a identifica sarcinile ce pot fi automatizate sau asistate de IA.
-
-- Învățarea continuă devine esențială pentru adaptarea la noile tehnologii.
-
-<br>
-
-::: {.fragment fragment-index=1}
-<br>
-
-<p>{{< bi lightbulb >}} **Abilități care vor deveni importante**</p>
-
-- Va crește importanța abilităților pe care IA nu le poate replica: gândirea critică, creativitatea și inteligența socio-emoțională.
 :::
+<br><br>
+
+<p>{{< bi person-check >}} Adaptabilitate și învățare continuă</p>
+
+<br><br>
+
+<p>{{< bi lightbulb >}} Abilități care vor deveni importante</p>
+
 :::
-:::
+
 
 
 ::: {.column width="50%"}
-::: small
+::: large
+<br>
+
 **Implicații la nivel organizațional**
 
-<br>
-
-<p>{{< bi building-gear >}} **Optimizarea proceselor și productivitate**</p>
-
-- Organizațiile vor analiza fluxurile de lucru pentru a identifica oportunități de automatizare și eficientizare prin IA.
-
-- Automatizarea sarcinilor repetitive va permite angajaților să se concentreze pe activități cu valoare adăugată mai mare.
-
-<br>
-
-::: {.fragment fragment-index=1}
-<p>{{< bi people >}} **Investiția în capitalul uman**</p>
-
-- Succesul organizațiilor va depinde de investiția în formarea și dezvoltarea competențelor angajaților pentru a lucra eficient cu noile tehnologii.
-
 :::
-:::
+
+<br><br>
+
+<p>{{< bi building-gear >}} Optimizarea proceselor și productivitate</p>
+
+
+<br><br>
+
+<p>{{< bi people >}} Investiția în capitalul uman</p>
+
 :::
 :::
 
