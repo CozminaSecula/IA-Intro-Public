@@ -92,10 +92,6 @@ Participanții au prezentat o propunere îndrăzneață: **construirea unui sist
 ![](/imagini/istoria-IA2.svg)
 
 
-## Google AI
-
-{{< video https://www.youtube.com/watch?v=lXUQ-DdSDoE start="60" width="100%" height="85%" >}}
-
 
 ## Ce este inteligență artificială?
 
@@ -132,13 +128,13 @@ Exemple de sarcini:
 
 ::::::: {.columns }
 :::: {.column width="50%" .center}
-::: {.absolute style="background: #12719e; width: 450px; height: 450px; margin: 50px; box-shadow: 10px 25px 25px -9px darkgray; margin-left: auto; margin-right: auto;rotate: 0deg; color: #fff"}
+::: {.absolute style="background: #12719e; width: 450px; height: 450px; margin: 50px; margin-left: auto; margin-right: auto;rotate: 0deg; color: #fff"}
 **Autonomie**: <br><br>capacitatea de a efectua sarcini în medii complexe fără îndrumarea constantă a unei persoane.
 :::
 ::::
 
 :::: {.column width="50%" .center}
-::: {.absolute style="background: #73bef2; width: 450px; height: 450px; margin: 50px; box-shadow: 0 25px 25px -9px darkgray; margin-left: auto; margin-right: auto; rotate: 0deg;"}
+::: {.absolute style="background: #73bef2; width: 450px; height: 450px; margin: 50px; margin-left: auto; margin-right: auto; rotate: 0deg;"}
 
 **Adaptabilitate**: <br><br> capacitatea de a-și îmbunătăți performanța după implementare, ca răspuns la date, contexte sau condiții noi.
 :::
