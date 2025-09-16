@@ -92,7 +92,6 @@ Participanții au prezentat o propunere îndrăzneață: **construirea unui sist
 ![](/imagini/istoria-IA2.svg)
 
 
-
 ## Ce este inteligență artificială?
 
 ::: {.columns }
@@ -547,7 +546,7 @@ Sursa: Source: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Work
 <p>{{< bi book-open >}} **Simplifică informația** – Transformă supraîncărcarea informațională în claritate.</p>
 :::
 
-<br>
+<br><br><br>
 
 ::: {.fragment fragment-index=2}
 <p>{{< bi universal-access >}} **Accesibilitate** – Se adaptează la diverse stiluri și nevoi de învățare.</p>
@@ -567,7 +566,7 @@ Sursa: Source: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Work
 <br>
 
 ::: {.fragment fragment-index=1}
-<p>{{< bi eye-slash >}} **Utilizare ascunsă** – Prezența IA poate să nu fie transparentă sau evidentă.</p>
+<p>{{< bi eye-slash >}} **Transparență** – produce rezultate impresionante pornind de la solicitări vagi, dar procesul este opac, iar acuratețea nu poate fi garantată.</p>
 :::
 
 <br>
@@ -578,7 +577,7 @@ Sursa: Source: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Work
 
 
 ::: {.fragment fragment-index=3}
-<p>{{< bi briefcase >}} **Reconfigurarea joburilor** – Schimbă natura anumitor rolurilor, dar nu le înlocuiește complet.</p>
+<p>{{< bi briefcase >}} **Reconfigurarea joburilor** – Poate schimba natura anumitor roluri.</p>
 :::
 
 :::
