@@ -29,7 +29,7 @@ format:
 
 ![](/logo//cj.png){.absolute bottom=290 left=430 width="320"} 
 
-![](/logo/parteneri_m.jpg){.absolute bottom=30 left=0 width="650"} 
+![](/logo/parteneri_m.jpg){.absolute bottom=10 left=0 width="650"} 
 
 
 
@@ -40,15 +40,15 @@ format:
 | Timp | Subiect |
 |:---|:---|
 | {{< bi clock >}} 5 min| Intro
-| {{< bi clock >}} 30 min| **Partea I:**<br> Ce este inteligența artificială (IA) <br> Ce este IA generativă?<br>Beneficii și limite ale IA generativă|
-| {{< bi clock >}} 20 min| **Partea a II-a:**<br>Impactul potențial al IA <br> Locuri de muncă <br> Competențe pentru viitor|
+| {{< bi clock >}} 30 min| **Partea I:**<br> Ce este inteligența artificială (IA) <br> Ce este IA generativă?<br>Beneficii și limite ale IA generative|
+| {{< bi clock >}} 20 min| **Partea a II-a:**<br>Impactul potențial al IA: <br> Locuri de muncă <br> Competențe pentru viitor|
 | {{< bi clock >}} 5 min| Încheiere <br> Workshopuri IA|
 
 
 # Partea I<br>Ce este inteligența artificială?{style="text-align: left;"}
 
 
-## Turing Test, 1950 - "Pot mașinile să gândească?"
+## Turing Test, 1950 - **"Pot mașinile să gândească?"**
 
 ::: {.columns}
 ::: {.column}
@@ -92,7 +92,12 @@ Participanții au prezentat o propunere îndrăzneață: **construirea unui sist
 ![](/imagini/istoria-IA2.svg)
 
 
-## Ce este inteligență artificială?
+## Google AI
+
+{{< video https://www.youtube.com/watch?v=lXUQ-DdSDoE start="60" width="100%" height="85%" >}}
+
+
+## Ce este inteligența artificială?
 
 ::: {.columns }
 ::: {.column width="35%"}
@@ -342,7 +347,9 @@ Anumite modele pot accesa internetul în timp real pentru a oferi răspunsuri ac
 
 ![](/imagini/black-box-2.svg){fig-align="center"}
 
-## ChatGPT: Utilizare personală vs. muncă
+# Cum folosesc oamenii ChatGPT?{style="text-align: left;"}
+
+## **ChatGPT: Utilizare personală vs. muncă**
 
 <br>
 
@@ -351,7 +358,7 @@ Anumite modele pot accesa internetul în timp real pentru a oferi răspunsuri ac
 #### {{< bi house >}} Utilizare personală
 
 <p><span style="font-size: 2.5em; color: #12719e;">70%</span></p>
-<p>din cereri **nu au legătură cu munca**<br> {{< bi arrow-up >}}față de 53%, anul trecut.</p>
+<p>din cereri **nu au legătură cu munca**<br>{{< bi arrow-up >}} față de 53%, anul trecut.</p>
 
 :::
 
@@ -376,7 +383,7 @@ Sursa: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Pape
 </div>
 
 
-## ChatGPT: La muncă, scrierea este utilizată preponderent
+## **ChatGPT: La muncă, scrierea este utilizată preponderent**
 
 <br>
 
@@ -385,7 +392,7 @@ Sursa: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Pape
 #### {{< bi pencil-square >}} Creare de conținut
 
 <p><span style="font-size: 2.5em; color: #12719e;">42%</span></p>
-<p>din solicitările de muncă<br> sunt legate de scriere.</p>
+<p>din solicitările de muncă<br> sunt legate de<br> **scriere**.</p>
 
 :::
 
@@ -411,7 +418,7 @@ Sursa: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Pape
 </div>
 
 
-## ChatGPT: sfaturile sunt mai solicitate decât acțiunile
+## **ChatGPT: sfaturile sunt mai solicitate decât acțiunile**
 
 <br>
 
@@ -446,7 +453,7 @@ Sursa: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Pape
 Sursa: Source: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255](https://www.nber.org/papers/w34255)
 </div>
 
-## ChatGpt: Cine folosește cel mai mult? Profilul utilizatorului
+## **ChatGPT: Profilul utilizatorului**
 
 <br>
 
@@ -455,9 +462,9 @@ Sursa: Source: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Work
 
 - <p>{{< bi people >}} **Gen:** Echilibru aproape complet între femei și bărbați.</p>
 
-- <p>{{< bi mortarboard >}} **Vârsta:** Aproximativ **50%** dintre utilizatori au sub 26 de ani.</p>
+- <p>{{< bi mortarboard >}} **Vârsta:** **~ 50%** dintre utilizatori au sub 26 de ani.</p>
 
-- <p>{{< bi globe >}} **Global:** Creștere accelerată în țările cu venituri mici și medii.</p>
+- <p>{{< bi globe >}} **Global:** Creștere în țările cu venituri mici și medii.</p>
 
 - <p>{{< bi person-workspace >}} **Profesioniștii cu educație superioară:** Folosesc IA mai des pentru muncă și pentru întrebări.</p>
 
@@ -515,7 +522,7 @@ Sursa: Source: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Work
 <br>
 
 ::: {.fragment fragment-index=2}
-<p>{{< bi front >}} **Bias (Părtinire)** – Poate reflecta stereotipuri sau lacune din datele de antrenament.</p>
+<p>{{< bi front >}} **Bias (Părtinire)** – Există potențialul ca IA să reflecte și să amplifice prejudecățile din societate.</p>
 :::
 
 
