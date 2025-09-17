@@ -4,7 +4,7 @@
     "href": "slide_v4.html#agenda",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
     "section": "Agenda",
-    "text": "Agenda\n\n\n\n\n\n\n\n\nTimp\nSubiect\n\n\n\n\n 5 min\nIntro\n\n\n 30 min\nPartea I: Ce este inteligența artificială (IA)  Ce este IA generativă?Beneficii și limite ale IA generativă\n\n\n 20 min\nPartea a II-a:Impactul potențial al IA  Locuri de muncă  Competențe pentru viitor\n\n\n 5 min\nÎncheiere  Workshopuri IA",
+    "text": "Agenda\n\n\n\n\n\n\n\n\nTimp\nSubiect\n\n\n\n\n 5 min\nIntro\n\n\n 30 min\nPartea I: Ce este inteligența artificială (IA)  Ce este IA generativă?Beneficii și limite ale IA generative\n\n\n 20 min\nPartea a II-a:Impactul potențial al IA:  Locuri de muncă  Competențe pentru viitor\n\n\n 5 min\nÎncheiere  Workshopuri IA",
     "crumbs": [
       "Prezentare"
     ]
@@ -40,11 +40,21 @@
     ]
   },
   {
-    "objectID": "slide_v4.html#ce-este-inteligență-artificială",
-    "href": "slide_v4.html#ce-este-inteligență-artificială",
+    "objectID": "slide_v4.html#google-ai",
+    "href": "slide_v4.html#google-ai",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
-    "section": "Ce este inteligență artificială?",
-    "text": "Ce este inteligență artificială?\n\n\n\nInteligența artificială sau IA se referă la sisteme care pot îndeplini sarcini care în mod normal necesită inteligență umană.\n Exemple de sarcini:\n\nînvățarea\nraționament logic\nrezolvarea problemelor\nînțelegerea limbajului\nrecunoașterea vorbirii",
+    "section": "Google AI",
+    "text": "Google AI",
+    "crumbs": [
+      "Prezentare"
+    ]
+  },
+  {
+    "objectID": "slide_v4.html#ce-este-inteligența-artificială",
+    "href": "slide_v4.html#ce-este-inteligența-artificială",
+    "title": "Inteligența Artificială: de la curiozitate la înțelegere",
+    "section": "Ce este inteligența artificială?",
+    "text": "Ce este inteligența artificială?\n\n\n\nInteligența artificială sau IA se referă la sisteme care pot îndeplini sarcini care în mod normal necesită inteligență umană.\n Exemple de sarcini:\n\nînvățarea\nraționament logic\nrezolvarea problemelor\nînțelegerea limbajului\nrecunoașterea vorbirii",
     "crumbs": [
       "Prezentare"
     ]
@@ -140,11 +150,11 @@
     ]
   },
   {
-    "objectID": "slide_v4.html#chatgpt-cine-folosește-cel-mai-mult-profilul-utilizatorului",
-    "href": "slide_v4.html#chatgpt-cine-folosește-cel-mai-mult-profilul-utilizatorului",
+    "objectID": "slide_v4.html#chatgpt-profilul-utilizatorului",
+    "href": "slide_v4.html#chatgpt-profilul-utilizatorului",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
-    "section": "ChatGpt: Cine folosește cel mai mult? Profilul utilizatorului",
-    "text": "ChatGpt: Cine folosește cel mai mult? Profilul utilizatorului\n\n\n\n\n Gen: Echilibru aproape complet între femei și bărbați.\n\n\n Vârsta: Aproximativ 50% dintre utilizatori au sub 26 de ani.\n\n\n Global: Creștere accelerată în țările cu venituri mici și medii.\n\n\n Profesioniștii cu educație superioară: Folosesc IA mai des pentru muncă și pentru întrebări.\n\n\n\n\n\nSursa: Source: Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255",
+    "section": "ChatGPT: Profilul utilizatorului",
+    "text": "ChatGPT: Profilul utilizatorului\n\n\n\n\n Gen: Echilibru aproape complet între femei și bărbați.\n\n\n Vârsta: ~ 50% dintre utilizatori au sub 26 de ani.\n\n\n Global: Creștere în țările cu venituri mici și medii.\n\n\n Profesioniștii cu educație superioară: Folosesc IA mai des pentru muncă și pentru întrebări.\n\n\n\n\n\nSursa: Source: Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255",
     "crumbs": [
       "Prezentare"
     ]
@@ -154,7 +164,7 @@
     "href": "slide_v4.html#beneficii-și-limite-ale-ia-generativă-12",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
     "section": "Beneficii și limite ale IA generativă (1/2)",
-    "text": "Beneficii și limite ale IA generativă (1/2)\n\n\n✅ Beneficii\n\n\n\n Utilizare naturală – Poți vorbi sau scrie normal.\n\n\n\n\n\n Ajutor personalizat – Explicații adaptate de la nivel de începător la expert.\n\n\n\n\n\n Economie de timp – Generează ciorne, rezumate și automatizează sarcini de rutină.\n\n\n\n\n\n Stimulent creativ – Oferă idei, analogii și soluții la probleme.\n\n\n\n⚠️ Limite\n\n\n\n Răspunsuri greșite – Poate oferi informații false cu maximă încredere.\n\n\n\n\n\n Bias (Părtinire) – Poate reflecta stereotipuri sau lacune din datele de antrenament.\n\n\n\n\n Dependență excesivă – Riscă să înlocuiască gândirea critică.\n\n\n\n\n\n Riscuri de confidențialitate – Datele introduse ar putea fi utilizate necorespunzător.",
+    "text": "Beneficii și limite ale IA generativă (1/2)\n\n\n✅ Beneficii\n\n\n\n Utilizare naturală – Poți vorbi sau scrie normal.\n\n\n\n\n\n Ajutor personalizat – Explicații adaptate de la nivel de începător la expert.\n\n\n\n\n\n Economie de timp – Generează ciorne, rezumate și automatizează sarcini de rutină.\n\n\n\n\n\n Stimulent creativ – Oferă idei, analogii și soluții la probleme.\n\n\n\n⚠️ Limite\n\n\n\n Răspunsuri greșite – Poate oferi informații false cu maximă încredere.\n\n\n\n\n\n Bias (Părtinire) – Există potențialul ca IA să reflecte și să amplifice prejudecățile din societate.\n\n\n\n\n Dependență excesivă – Riscă să înlocuiască gândirea critică.\n\n\n\n\n\n Riscuri de confidențialitate – Datele introduse ar putea fi utilizate necorespunzător.",
     "crumbs": [
       "Prezentare"
     ]
