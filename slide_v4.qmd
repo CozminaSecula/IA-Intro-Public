@@ -11,7 +11,7 @@ format:
 
 <h1> **Inteligența Artificială:<br> de la curiozitate la înțelegere** </h1>
 
-<h2>O introducere în conceptele cheie<br> și impactul asupra viitorului muncii.</h2>
+<h2>O introducere în conceptele cheie<br> și impactul potențial asupra viitorului muncii.</h2>
 
 <hr>
 
@@ -31,7 +31,11 @@ format:
 
 ![](/logo/parteneri_m.jpg){.absolute bottom=10 left=0 width="650"} 
 
+::: notes
 
+ Înainte de a intra în detalii, sunt curioasă: ce v-a adus astăzi aici? Ce anume din domeniul IA vă stârnește curiozitatea sau poate chiar îngrijorarea?
+
+:::
 
 ## Agenda {.content-bottom}
 
@@ -222,7 +226,13 @@ Exemple de sarcini:
 ::::
 :::::::
 
+::: notes
 
+Aici avem câteva exemple. Dar înainte de a le dezvălui pe toate, haideți să facem un exercițiu. Voi numi o tehnologie, iar dvs ridicați mâna dacă credeți că este IA. De exemplu: un termostat inteligent. Este IA? Dar un filtru de spam? Dar Excel?
+
+:::
+
+# Inteligența artificială generativă{style="text-align: left;"}
 
 ## Ce este IA generativă?
 
@@ -347,7 +357,10 @@ Anumite modele pot accesa internetul în timp real pentru a oferi răspunsuri ac
 
 ![](/imagini/black-box-2.svg){fig-align="center"}
 
+
+
 # Cum folosesc oamenii ChatGPT?{style="text-align: left;"}
+
 
 ## **ChatGPT: Utilizare personală vs. muncă**
 
@@ -373,7 +386,7 @@ Anumite modele pot accesa internetul în timp real pentru a oferi răspunsuri ac
 <br>
 
 ::: {.left}
-- <p>Top 3 subiecte: **îndrumare practică**, **scriere** și **informații** (~78% din total).</p>
+- <p>Top 3 subiecte de conversație: **îndrumare practică**, **scriere** și **căutarea de informații** (~78% din total).</p>
 :::
 
 <br>
@@ -392,7 +405,7 @@ Sursa: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Pape
 #### {{< bi pencil-square >}} Creare de conținut
 
 <p><span style="font-size: 2.5em; color: #12719e;">42%</span></p>
-<p>din solicitările de muncă<br> sunt legate de<br> **scriere**.</p>
+<p>din solicitările legate <br> de muncă sunt<br> de **scriere**.</p>
 
 :::
 
@@ -400,7 +413,7 @@ Sursa: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Pape
 #### {{< bi arrow-up-circle >}} Îmbunătățire conținut
 
 <p><span style="font-size: 2.5em; color: #12719e;">~ 2/3</span></p>
-<p>din cererile de scriere vizează **îmbunătățirea textului**, nu crearea de la zero.</p>
+<p>din solicitările de scriere vizează **îmbunătățirea textului**, nu crearea <br>de la zero.</p>
 
 :::
 :::
@@ -466,7 +479,7 @@ Sursa: Source: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Work
 
 - <p>{{< bi globe >}} **Global:** Creștere în țările cu venituri mici și medii.</p>
 
-- <p>{{< bi person-workspace >}} **Profesioniștii cu educație superioară:** Folosesc IA mai des pentru muncă și pentru întrebări.</p>
+- <p>{{< bi person-workspace >}} **Profesioniștii cu educație superioară:** Folosesc ChatGPT mai des pentru muncă și mai mult pentru întrebări.</p>
 
 :::
 
@@ -479,6 +492,15 @@ Sursa: Source: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Work
 
 
 ## Beneficii și limite ale IA generativă (1/2)
+
+::: notes
+
+Câteva beneficii pe care le-am identificat. Puteți să-mi dați un exemplu concret în care IA v-a ajutat să economisiți timp sau v-a stimulat creativitatea?
+
+Avem și limite. Cine s-a lovit de o 'halucinație' a IA? Ce îngrijorări aveți legate de confidențialitate sau de bias-ul din aceste sisteme?
+
+:::
+
 
 ::: {.columns}
 ::: {.column width="50%"}
@@ -539,9 +561,9 @@ Sursa: Source: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Work
 :::
 :::
 
----
 
 ## Capacități și limite ale IA generativă (2/2)
+
 
 ::: {.columns}
 ::: {.column width="50%"}
@@ -590,6 +612,8 @@ Sursa: Source: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Work
 :::
 :::
 
+
+
 # Partea a-II-a<br>Impactul potențial al IA generativă{style="text-align: left;"}
 
 ##
@@ -604,6 +628,12 @@ Care credeți că va fi impactul potențial al IA generativă în următorii ani
 
 :::
 :::
+
+::: notes
+
+Aici aș vrea să aud părerea voastră. Să votăm rapid: cine crede că impactul principal va fi înlocuirea completă a joburilor? (ridicați mâna). Acum, cine crede că va fi mai degrabă o transformare a sarcinilor? (ridicați mâna). De ce credeți asta? Ce argumente aveți pentru o tabără sau cealaltă?
+:::
+
 
 
 ## Automatizarea sarcinilor, nu a locurilor de muncă
@@ -840,7 +870,7 @@ Sursa: [Studiu Implement Consulting Group comandat de Google, 2024](https://impl
 ::: {.columns}
 ::: {.column .fragment fragment-index=1}
 <br><br>
-**Investițiile în tehnologie și IA**
+**Investițiile și utilizarea tehnologiilor IA**
 
 :::
 ::: {.column .fragment fragment-index=1}
@@ -968,7 +998,7 @@ până la
 
 ::: {.medium style="text-align: left;" .fragment fragment-index=2}
 
-Între 40% și 60% dintre angajați au:
+Între 40% și 60% dintre angajații, participanții la studiu, au:
 
 - o **înțelegere limitată despre ce este tehnologia IA**,
 - **cum funcționează**,
