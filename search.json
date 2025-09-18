@@ -74,7 +74,7 @@
     "href": "slide_v4.html#exemple-de-ia",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
     "section": "Exemple de IA",
-    "text": "Exemple de IA\n\n\n\n Este IA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Autonomie și adaptabilitate\n\n\n\n Nu este IA",
+    "text": "Exemple de IA\n\n\n\n Este IA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Autonomie și adaptabilitate\n\n\n\n Nu este IA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAici avem câteva exemple. Dar înainte de a le dezvălui pe toate, haideți să facem un exercițiu. Voi numi o tehnologie, iar dvs ridicați mâna dacă credeți că este IA. De exemplu: un termostat inteligent. Este IA? Dar un filtru de spam? Dar Excel?",
     "crumbs": [
       "Prezentare"
     ]
@@ -124,7 +124,7 @@
     "href": "slide_v4.html#chatgpt-utilizare-personală-vs.-muncă",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
     "section": "ChatGPT: Utilizare personală vs. muncă",
-    "text": "ChatGPT: Utilizare personală vs. muncă\n\n\n\n Utilizare personală\n\n70%\n\n\ndin cereri nu au legătură cu munca față de 53%, anul trecut.\n\n\n Programarea și reflecția personală\n\n&lt; 6%\n\n\n\n\n\n\nTop 3 subiecte: îndrumare practică, scriere și informații (~78% din total).\n\n\n\n\n\nSursa: Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255",
+    "text": "ChatGPT: Utilizare personală vs. muncă\n\n\n\n Utilizare personală\n\n70%\n\n\ndin cereri nu au legătură cu munca față de 53%, anul trecut.\n\n\n Programarea și reflecția personală\n\n&lt; 6%\n\n\n\n\n\n\nTop 3 subiecte de conversație: îndrumare practică, scriere și căutarea de informații (~78% din total).\n\n\n\n\n\nSursa: Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255",
     "crumbs": [
       "Prezentare"
     ]
@@ -134,7 +134,7 @@
     "href": "slide_v4.html#chatgpt-la-muncă-scrierea-este-utilizată-preponderent",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
     "section": "ChatGPT: La muncă, scrierea este utilizată preponderent",
-    "text": "ChatGPT: La muncă, scrierea este utilizată preponderent\n\n\n\n Creare de conținut\n\n42%\n\n\ndin solicitările de muncă sunt legate de scriere.\n\n\n Îmbunătățire conținut\n\n~ 2/3\n\n\ndin cererile de scriere vizează îmbunătățirea textului, nu crearea de la zero.\n\n\n\n\n\n\n Peste 50% din aceste cereri vin din domeniul management și business.\n\n\n\n\n\nSursa: Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255",
+    "text": "ChatGPT: La muncă, scrierea este utilizată preponderent\n\n\n\n Creare de conținut\n\n42%\n\n\ndin solicitările legate  de muncă sunt de scriere.\n\n\n Îmbunătățire conținut\n\n~ 2/3\n\n\ndin solicitările de scriere vizează îmbunătățirea textului, nu crearea de la zero.\n\n\n\n\n\n\n Peste 50% din aceste cereri vin din domeniul management și business.\n\n\n\n\n\nSursa: Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255",
     "crumbs": [
       "Prezentare"
     ]
@@ -154,7 +154,7 @@
     "href": "slide_v4.html#chatgpt-profilul-utilizatorului",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
     "section": "ChatGPT: Profilul utilizatorului",
-    "text": "ChatGPT: Profilul utilizatorului\n\n\n\n\n Gen: Echilibru aproape complet între femei și bărbați.\n\n\n Vârsta: ~ 50% dintre utilizatori au sub 26 de ani.\n\n\n Global: Creștere în țările cu venituri mici și medii.\n\n\n Profesioniștii cu educație superioară: Folosesc IA mai des pentru muncă și pentru întrebări.\n\n\n\n\n\nSursa: Source: Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255",
+    "text": "ChatGPT: Profilul utilizatorului\n\n\n\n\n Gen: Echilibru aproape complet între femei și bărbați.\n\n\n Vârsta: ~ 50% dintre utilizatori au sub 26 de ani.\n\n\n Global: Creștere în țările cu venituri mici și medii.\n\n\n Profesioniștii cu educație superioară: Folosesc ChatGPT mai des pentru muncă și mai mult pentru întrebări.\n\n\n\n\n\nSursa: Source: Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255",
     "crumbs": [
       "Prezentare"
     ]
@@ -164,7 +164,7 @@
     "href": "slide_v4.html#beneficii-și-limite-ale-ia-generativă-12",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
     "section": "Beneficii și limite ale IA generativă (1/2)",
-    "text": "Beneficii și limite ale IA generativă (1/2)\n\n\n✅ Beneficii\n\n\n\n Utilizare naturală – Poți vorbi sau scrie normal.\n\n\n\n\n\n Ajutor personalizat – Explicații adaptate de la nivel de începător la expert.\n\n\n\n\n\n Economie de timp – Generează ciorne, rezumate și automatizează sarcini de rutină.\n\n\n\n\n\n Stimulent creativ – Oferă idei, analogii și soluții la probleme.\n\n\n\n⚠️ Limite\n\n\n\n Răspunsuri greșite – Poate oferi informații false cu maximă încredere.\n\n\n\n\n\n Bias (Părtinire) – Există potențialul ca IA să reflecte și să amplifice prejudecățile din societate.\n\n\n\n\n Dependență excesivă – Riscă să înlocuiască gândirea critică.\n\n\n\n\n\n Riscuri de confidențialitate – Datele introduse ar putea fi utilizate necorespunzător.",
+    "text": "Beneficii și limite ale IA generativă (1/2)\n\nCâteva beneficii pe care le-am identificat. Puteți să-mi dați un exemplu concret în care IA v-a ajutat să economisiți timp sau v-a stimulat creativitatea?\nAvem și limite. Cine s-a lovit de o ‘halucinație’ a IA? Ce îngrijorări aveți legate de confidențialitate sau de bias-ul din aceste sisteme?\n\n\n\n✅ Beneficii\n\n\n\n Utilizare naturală – Poți vorbi sau scrie normal.\n\n\n\n\n\n Ajutor personalizat – Explicații adaptate de la nivel de începător la expert.\n\n\n\n\n\n Economie de timp – Generează ciorne, rezumate și automatizează sarcini de rutină.\n\n\n\n\n\n Stimulent creativ – Oferă idei, analogii și soluții la probleme.\n\n\n\n⚠️ Limite\n\n\n\n Răspunsuri greșite – Poate oferi informații false cu maximă încredere.\n\n\n\n\n\n Bias (Părtinire) – Există potențialul ca IA să reflecte și să amplifice prejudecățile din societate.\n\n\n\n\n Dependență excesivă – Riscă să înlocuiască gândirea critică.\n\n\n\n\n\n Riscuri de confidențialitate – Datele introduse ar putea fi utilizate necorespunzător.",
     "crumbs": [
       "Prezentare"
     ]
@@ -184,7 +184,7 @@
     "href": "slide_v4.html#section",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
     "section": "",
-    "text": "Care credeți că va fi impactul potențial al IA generativă în următorii ani:\n\nînlocuirea completă a unor locuri de muncă\ntransformarea sarcinilordin cadrul acestora?",
+    "text": "Care credeți că va fi impactul potențial al IA generativă în următorii ani:\n\nînlocuirea completă a unor locuri de muncă\ntransformarea sarcinilordin cadrul acestora?\n\n\n\n\nAici aș vrea să aud părerea voastră. Să votăm rapid: cine crede că impactul principal va fi înlocuirea completă a joburilor? (ridicați mâna). Acum, cine crede că va fi mai degrabă o transformare a sarcinilor? (ridicați mâna). De ce credeți asta? Ce argumente aveți pentru o tabără sau cealaltă?",
     "crumbs": [
       "Prezentare"
     ]
@@ -244,7 +244,7 @@
     "href": "slide_v4.html#ce-va-determina-impactul-ia-generativă-în-românia",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
     "section": "Ce va determina impactul IA generativă în România?",
-    "text": "Ce va determina impactul IA generativă în România?\n\n\n Nivelul de digitalizare al firmelor și al administrației publice\n\n\n\n\n\n Investițiile în tehnologie și IA\n\n \n\n\n\n Nivelul de competențe digitale\n\n\n\n\nSursa: Indicatori DESI 2025 și 2024",
+    "text": "Ce va determina impactul IA generativă în România?\n\n\n Nivelul de digitalizare al firmelor și al administrației publice\n\n\n\n\n\n Investițiile și utilizarea tehnologiilor IA\n\n \n\n\n\n Nivelul de competențe digitale\n\n\n\n\nSursa: Indicatori DESI 2025 și 2024",
     "crumbs": [
       "Prezentare"
     ]
@@ -274,7 +274,7 @@
     "href": "slide_v4.html#alfabetizarea-în-domeniul-inteligenței-artificiale",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
     "section": "Alfabetizarea în domeniul inteligenței artificiale",
-    "text": "Alfabetizarea în domeniul inteligenței artificiale\n\n\n\n Ce este?\n\n\nSetul de cunoștințe și abilități necesare pentru a:\n\nînțelege,\nevalua critic,\nși utiliza eficient\n\ninstrumentele și sistemele de IA.\n\n\n Ce presupune?\n\n\nDe la\n\nsimpla recunoaștere a unei tehnologii IA,\n\npână la\n\nînțelegerea modului în care aceste sisteme învață și interpretează lumea.\n\n\n\n Situația actuală\n\n\nÎntre 40% și 60% dintre angajați au:\n\no înțelegere limitată despre ce este tehnologia IA,\ncum funcționează,\ncare sunt consecințele sale probabile pentru societate.\n\n\n\n\n\nSursa: Cedefop. (2025). Competențele oferă putere anagajaților în revoluția IA: primele concluzii ale sondajului Cedefop privind competențele în domeniul IA. Publication Office of the European Union. Policy brief. DOI: 10.2801/6372704. https://www.cedefop.europa.eu/en/publications/9201",
+    "text": "Alfabetizarea în domeniul inteligenței artificiale\n\n\n\n Ce este?\n\n\nSetul de cunoștințe și abilități necesare pentru a:\n\nînțelege,\nevalua critic,\nși utiliza eficient\n\ninstrumentele și sistemele de IA.\n\n\n Ce presupune?\n\n\nDe la\n\nsimpla recunoaștere a unei tehnologii IA,\n\npână la\n\nînțelegerea modului în care aceste sisteme învață și interpretează lumea.\n\n\n\n Situația actuală\n\n\nÎntre 40% și 60% dintre angajații, participanții la studiu, au:\n\no înțelegere limitată despre ce este tehnologia IA,\ncum funcționează,\ncare sunt consecințele sale probabile pentru societate.\n\n\n\n\n\nSursa: Cedefop. (2025). Competențele oferă putere anagajaților în revoluția IA: primele concluzii ale sondajului Cedefop privind competențele în domeniul IA. Publication Office of the European Union. Policy brief. DOI: 10.2801/6372704. https://www.cedefop.europa.eu/en/publications/9201",
     "crumbs": [
       "Prezentare"
     ]
