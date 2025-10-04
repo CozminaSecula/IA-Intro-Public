@@ -40,16 +40,6 @@
     ]
   },
   {
-    "objectID": "slide_v4.html#google-ai",
-    "href": "slide_v4.html#google-ai",
-    "title": "Inteligența Artificială: de la curiozitate la înțelegere",
-    "section": "Google AI",
-    "text": "Google AI",
-    "crumbs": [
-      "Prezentare"
-    ]
-  },
-  {
     "objectID": "slide_v4.html#ce-este-inteligența-artificială",
     "href": "slide_v4.html#ce-este-inteligența-artificială",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
@@ -74,7 +64,7 @@
     "href": "slide_v4.html#exemple-de-ia",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
     "section": "Exemple de IA",
-    "text": "Exemple de IA\n\n\n\n Este IA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Autonomie și adaptabilitate\n\n\n\n Nu este IA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAici avem câteva exemple. Dar înainte de a le dezvălui pe toate, haideți să facem un exercițiu. Voi numi o tehnologie, iar dvs ridicați mâna dacă credeți că este IA. De exemplu: un termostat inteligent. Este IA? Dar un filtru de spam? Dar Excel?",
+    "text": "Exemple de IA\n\n\n\n Este IA\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Autonomie și adaptabilitate\n\n\n\n Nu este IA",
     "crumbs": [
       "Prezentare"
     ]
@@ -94,7 +84,7 @@
     "href": "slide_v4.html#ce-sunt-modelele-lingvistice-marillms",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
     "section": "Ce sunt “Modelele lingvistice mari”(LLMs)?",
-    "text": "Ce sunt “Modelele lingvistice mari”(LLMs)?\n\n\n1. Model lingvistic\nUn algoritm care prezice secvențe de text, pe baza cuvintelor precedente.\n\nUn algoritm este un set detaliat de instrucțiuni pe care un computer le urmează pentru a realiza o sarcină sau a rezolva o problemă.\n\n\n2. Model lingvistic mare\nUn model de IA foarte mare care prezice multe secvențe complicate de text sau cod, folosind miliarde de puncte de date. Unele dintre acestea pot produce text sau cod care seamănă foarte mult cu ceea ce pot face oamenii.\n\n\n\n\n\n\nSunt antrenate pe volume masive de date (text și cod) de pe internet și din cărți.\n\n\n\n\n\nPerformanța lor este îmbunătățită continuu cu ajutorul feedback-ului oferit de oameni.\n\n\n\n\n\nFuncționează prezicând cel mai probabil cuvânt care urmează într-o secvență.\n\n\n\n\n\nAnumite modele pot accesa internetul în timp real pentru a oferi răspunsuri actualizate.",
+    "text": "Ce sunt “Modelele lingvistice mari”(LLMs)?\n\n\n1. Model lingvistic\nUn algoritm care prezice secvențe de text, pe baza cuvintelor precedente.\n\n2. Model lingvistic mare\nUn model de IA foarte mare care prezice multe secvențe complicate de text sau cod, folosind miliarde de puncte de date. Unele dintre acestea pot produce text sau cod care seamănă foarte mult cu ceea ce pot face oamenii.\n\n\n\n\n\n\nSunt antrenate pe volume masive de date (text și cod) de pe internet și din cărți.\n\n\n\n\n\nPerformanța lor este îmbunătățită continuu cu ajutorul feedback-ului oferit de oameni.\n\n\n\n\n\nFuncționează prezicând cel mai probabil cuvânt care urmează într-o secvență.\n\n\n\n\n\nAnumite modele pot accesa internetul în timp real pentru a oferi răspunsuri actualizate.",
     "crumbs": [
       "Prezentare"
     ]
@@ -134,7 +124,7 @@
     "href": "slide_v4.html#chatgpt-la-muncă-scrierea-este-utilizată-preponderent",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
     "section": "ChatGPT: La muncă, scrierea este utilizată preponderent",
-    "text": "ChatGPT: La muncă, scrierea este utilizată preponderent\n\n\n\n Creare de conținut\n\n42%\n\n\ndin solicitările legate  de muncă sunt de scriere.\n\n\n Îmbunătățire conținut\n\n~ 2/3\n\n\ndin solicitările de scriere vizează îmbunătățirea textului, nu crearea de la zero.\n\n\n\n\n\n\n Peste 50% din aceste cereri vin din domeniul management și business.\n\n\n\n\n\nSursa: Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255",
+    "text": "ChatGPT: La muncă, scrierea este utilizată preponderent\n\n\n\n Creare de conținut\n\n42%\n\n\ndin solicitările legate  de muncă sunt de scriere.\n\n\n Îmbunătățire conținut\n\n~ 2/3\n\n\ndin solicitările de scriere vizează îmbunătățirea textului, nu crearea de la zero.\n\n\n\n\n\n Peste 50% din aceste cereri vin din domeniul management și business.\n\n\n\n\n\nSursa: Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255",
     "crumbs": [
       "Prezentare"
     ]
@@ -164,7 +154,7 @@
     "href": "slide_v4.html#beneficii-și-limite-ale-ia-generativă-12",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
     "section": "Beneficii și limite ale IA generativă (1/2)",
-    "text": "Beneficii și limite ale IA generativă (1/2)\n\nCâteva beneficii pe care le-am identificat. Puteți să-mi dați un exemplu concret în care IA v-a ajutat să economisiți timp sau v-a stimulat creativitatea?\nAvem și limite. Cine s-a lovit de o ‘halucinație’ a IA? Ce îngrijorări aveți legate de confidențialitate sau de bias-ul din aceste sisteme?\n\n\n\n✅ Beneficii\n\n\n\n Utilizare naturală – Poți vorbi sau scrie normal.\n\n\n\n\n\n Ajutor personalizat – Explicații adaptate de la nivel de începător la expert.\n\n\n\n\n\n Economie de timp – Generează ciorne, rezumate și automatizează sarcini de rutină.\n\n\n\n\n\n Stimulent creativ – Oferă idei, analogii și soluții la probleme.\n\n\n\n⚠️ Limite\n\n\n\n Răspunsuri greșite – Poate oferi informații false cu maximă încredere.\n\n\n\n\n\n Bias (Părtinire) – Există potențialul ca IA să reflecte și să amplifice prejudecățile din societate.\n\n\n\n\n Dependență excesivă – Riscă să înlocuiască gândirea critică.\n\n\n\n\n\n Riscuri de confidențialitate – Datele introduse ar putea fi utilizate necorespunzător.",
+    "text": "Beneficii și limite ale IA generativă (1/2)\n\n\n✅ Beneficii\n\n\n\n Utilizare naturală – Poți vorbi sau scrie normal.\n\n\n\n\n\n Ajutor personalizat – Explicații adaptate de la nivel de începător la expert.\n\n\n\n\n\n Economie de timp – Generează ciorne, rezumate și automatizează sarcini de rutină.\n\n\n\n\n\n Stimulent creativ – Oferă idei, analogii și soluții la probleme.\n\n\n\n⚠️ Limite\n\n\n\n Răspunsuri greșite – Poate oferi informații false cu maximă încredere.\n\n\n\n\n\n Bias (Părtinire) – Există potențialul ca IA să reflecte și să amplifice prejudecățile din societate.\n\n\n\n\n Dependență excesivă – Riscă să înlocuiască gândirea critică.\n\n\n\n\n\n Riscuri de confidențialitate – Datele introduse ar putea fi utilizate necorespunzător.",
     "crumbs": [
       "Prezentare"
     ]
@@ -184,7 +174,7 @@
     "href": "slide_v4.html#section",
     "title": "Inteligența Artificială: de la curiozitate la înțelegere",
     "section": "",
-    "text": "Care credeți că va fi impactul potențial al IA generativă în următorii ani:\n\nînlocuirea completă a unor locuri de muncă\ntransformarea sarcinilordin cadrul acestora?\n\n\n\n\nAici aș vrea să aud părerea voastră. Să votăm rapid: cine crede că impactul principal va fi înlocuirea completă a joburilor? (ridicați mâna). Acum, cine crede că va fi mai degrabă o transformare a sarcinilor? (ridicați mâna). De ce credeți asta? Ce argumente aveți pentru o tabără sau cealaltă?",
+    "text": "Care credeți că va fi impactul potențial al IA generativă în următorii ani:\n\nînlocuirea completă a unor locuri de muncă\ntransformarea sarcinilordin cadrul acestora?",
     "crumbs": [
       "Prezentare"
     ]
