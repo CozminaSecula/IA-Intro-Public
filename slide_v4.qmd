@@ -6,7 +6,9 @@ format:
     height: "900"
     slide-number: c/t
     link-external-newwindow: true
-    chalkboard: false   
+    chalkboard: false
+    controls: true   
+    
 ---
 
 <h1> **Inteligența Artificială:<br> de la curiozitate la înțelegere** </h1>
