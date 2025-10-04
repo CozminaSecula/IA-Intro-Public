@@ -22,20 +22,14 @@ format:
 
 
 
-![](/logo/logo.svg){.absolute bottom=415 left=430 width="230"} 
+![](/logo/logo.svg){.absolute bottom=360 left=410 width="230"} 
 
 
-![](/logo/log_%20biblioteca_curbe.png){.absolute bottom=120 left=760 width="350"} 
+![](/logo/log_%20biblioteca_curbe.png){.absolute bottom=60 left=760 width="350"} 
 
-![](/logo//cj.png){.absolute bottom=290 left=430 width="320"} 
+![](/logo//cj.png){.absolute bottom=230 left=430 width="320"} 
 
-![](/logo/parteneri_m.jpg){.absolute bottom=10 left=0 width="650"} 
 
-::: notes
-
- Înainte de a intra în detalii, sunt curioasă: ce v-a adus astăzi aici? Ce anume din domeniul IA vă stârnește curiozitatea sau poate chiar îngrijorarea?
-
-:::
 
 ## Agenda {.content-bottom}
 
@@ -95,10 +89,6 @@ Participanții au prezentat o propunere îndrăzneață: **construirea unui sist
 <br>
 ![](/imagini/istoria-IA2.svg)
 
-
-## Google AI
-
-{{< video https://www.youtube.com/watch?v=lXUQ-DdSDoE start="60" width="100%" height="85%" >}}
 
 
 ## Ce este inteligența artificială?
@@ -226,11 +216,7 @@ Exemple de sarcini:
 ::::
 :::::::
 
-::: notes
 
-Aici avem câteva exemple. Dar înainte de a le dezvălui pe toate, haideți să facem un exercițiu. Voi numi o tehnologie, iar dvs ridicați mâna dacă credeți că este IA. De exemplu: un termostat inteligent. Este IA? Dar un filtru de spam? Dar Excel?
-
-:::
 
 # Inteligența artificială generativă{style="text-align: left;"}
 
@@ -286,11 +272,6 @@ Benlisquare, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4
 Un algoritm care prezice secvențe de text, pe baza cuvintelor precedente.
 
 
-::: notes
-
-Un algoritm este un set detaliat de instrucțiuni pe care un computer le urmează pentru a realiza o sarcină sau a rezolva o problemă.
-
-:::
 
 ::: fragment
 
@@ -391,7 +372,7 @@ Anumite modele pot accesa internetul în timp real pentru a oferi răspunsuri ac
 
 <br>
 
-<div class="smallest" style="text-align: left; margin-top: 10px;">
+<div class="smallest" style="text-align: left; margin-top: -50px;">
 Sursa: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255](https://www.nber.org/papers/w34255)
 </div>
 
@@ -418,14 +399,12 @@ Sursa: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Pape
 :::
 :::
 
-<br>
 
 ::: {.left}
 - <p>{{< bi building >}} Peste **50%** din aceste cereri vin din domeniul management și business.</p>
 :::
 
 <br>
-
 <div class="smallest" style="text-align: left; margin-top: -50px;">
 Sursa: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Working Paper No. 34255](https://www.nber.org/papers/w34255)
 </div>
@@ -493,13 +472,6 @@ Sursa: Source: [Chatterji et al. (2025), Cum folosesc oamenii ChatGPT, NBER Work
 
 ## Beneficii și limite ale IA generativă (1/2)
 
-::: notes
-
-Câteva beneficii pe care le-am identificat. Puteți să-mi dați un exemplu concret în care IA v-a ajutat să economisiți timp sau v-a stimulat creativitatea?
-
-Avem și limite. Cine s-a lovit de o 'halucinație' a IA? Ce îngrijorări aveți legate de confidențialitate sau de bias-ul din aceste sisteme?
-
-:::
 
 
 ::: {.columns}
@@ -627,11 +599,6 @@ Care credeți că va fi impactul potențial al IA generativă în următorii ani
 - **transformarea sarcinilor**din cadrul acestora?
 
 :::
-:::
-
-::: notes
-
-Aici aș vrea să aud părerea voastră. Să votăm rapid: cine crede că impactul principal va fi înlocuirea completă a joburilor? (ridicați mâna). Acum, cine crede că va fi mai degrabă o transformare a sarcinilor? (ridicați mâna). De ce credeți asta? Ce argumente aveți pentru o tabără sau cealaltă?
 :::
 
 
